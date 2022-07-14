@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://t.me/QueenAlisha_Robot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/Pubglovers_Shayri_lovers"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/AlishaSupport"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
+    <a href="https://t.me/Alisha_Support"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
 </p>
     
 # ᴀʟɪꜱʜᴀ ᴍᴜsɪᴄ ʙᴏᴛ
