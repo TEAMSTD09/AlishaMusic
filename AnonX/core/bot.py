@@ -2,7 +2,7 @@ import sys
 
 from pyrogram import Client
 
-import confi
+import config
 
 from ..logging import LOGGER
 
