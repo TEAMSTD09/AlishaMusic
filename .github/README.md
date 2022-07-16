@@ -67,7 +67,7 @@
 
 ## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
-sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴛʜᴇsᴇ ᴀᴍᴀᴢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴘᴇᴏᴘʟᴇ ᴡʜɪᴄʜ/ᴡʜᴏ ʜᴇʟᴘᴇᴅ ʜᴇʀᴏ ᴍᴜsɪᴄs ʙᴏᴛ:
+sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴛʜᴇsᴇ ᴀᴍᴀᴢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴘᴇᴏᴘʟᴇ ᴡʜɪᴄʜ/ᴡʜᴏ ʜᴇʟᴘᴇᴅ ᴀʟɪsʜᴀ ᴍᴜsɪᴄs ʙᴏᴛ:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
