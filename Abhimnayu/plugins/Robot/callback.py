@@ -6,20 +6,20 @@ from pyrogram.types import CallbackQuery, InlineKeyboardMarkup
 from config import (AUTO_DOWNLOADS_CLEAR, BANNED_USERS,
                     SOUNCLOUD_IMG_URL, STREAM_IMG_URL,
                     TELEGRAM_AUDIO_URL, TELEGRAM_VIDEO_URL, adminlist)
-from AnonX import YouTube, app
-from AnonX.core.call import Anon
-from AnonX.misc import SUDOERS, db
-from AnonX.utils.database import (is_active_chat,
+from Abhimnayu import YouTube, app
+from Abhimnayu.core.call import Anon
+from Abhimnayu.misc import SUDOERS, db
+from Abhimnayu.utils.database import (is_active_chat,
                                        is_music_playing, set_loop,
                                        is_nonadmin_chat, music_off,
                                        music_on)
-from AnonX.utils.decorators.language import languageCB
-from AnonX.utils.formatters import seconds_to_min
-from AnonX.utils.inline.play import (panel_markup_1,
+from Abhimnayu.utils.decorators.language import languageCB
+from Abhimnayu.utils.formatters import seconds_to_min
+from Abhimnayu.utils.inline.play import (panel_markup_1,
                                           stream_markup,
                                           telegram_markup)
-from AnonX.utils.stream.autoclear import auto_clean
-from AnonX.utils.thumbnails import gen_thumb
+from Abhimnayu.utils.stream.autoclear import auto_clean
+from Abhimnayu.utils.thumbnails import gen_thumb
 
 wrong = {}
 
