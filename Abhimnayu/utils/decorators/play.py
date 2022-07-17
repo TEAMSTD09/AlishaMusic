@@ -2,9 +2,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import PLAYLIST_IMG_URL, PRIVATE_BOT_MODE, adminlist
 from strings import get_string
-from AnonX import YouTube, app
-from AnonX.misc import SUDOERS
-from AnonX.utils.database import (get_cmode, get_lang,
+from Abhimanyu import YouTube, app
+from Abhimanyu.misc import SUDOERS
+from Abhimanyu.utils.database import (get_cmode, get_lang,
                                        get_playmode, get_playtype,
                                        is_active_chat,
                                        is_commanddelete_on,
