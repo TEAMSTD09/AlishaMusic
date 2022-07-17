@@ -4,9 +4,9 @@ from pyrogram.types import InlineKeyboardButton, Message
 
 from config import BANNED_USERS
 from strings import get_command, get_string
-from AnonX import app
-from AnonX.utils.database import get_lang, set_lang
-from AnonX.utils.decorators import (ActualAdminCB, language,
+from Abhimnayu import app
+from Abhimnayu.utils.database import get_lang, set_lang
+from Abhimnayu.utils.decorators import (ActualAdminCB, language,
                                          languageCB)
 
 # Languages Available
