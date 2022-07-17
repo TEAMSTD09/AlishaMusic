@@ -3,10 +3,10 @@ from pyrogram.types import Message
 
 from config import BANNED_USERS
 from strings import get_command
-from AnonX import app
-from AnonX.core.call import Anon
-from AnonX.utils.database import is_music_playing, music_off
-from AnonX.utils.decorators import AdminRightsCheck
+from Abhimnayu import app
+from Abhimnayu.core.call import Anon
+from Abhimnayu.utils.database import is_music_playing, music_off
+from Abhimnayu.utils.decorators import AdminRightsCheck
 
 # Commands
 PAUSE_COMMAND = get_command("PAUSE_COMMAND")
