@@ -5,20 +5,20 @@ from typing import Union
 from pyrogram.types import InlineKeyboardMarkup
 
 import config
-from AnonX import Carbon, YouTube, app
-from AnonX.core.call import Anon
-from AnonX.misc import db
-from AnonX.utils.database import (add_active_chat,
+from Abhimanyu import Carbon, YouTube, app
+from Abhimanyu.core.call import Anon
+from Abhimanyu.misc import db
+from Abhimanyu.utils.database import (add_active_chat,
                                        add_active_video_chat,
                                        is_active_chat,
                                        is_video_allowed, music_on)
-from AnonX.utils.exceptions import AssistantErr
-from AnonX.utils.inline.play import (stream_markup,
+from Abhimanyu.utils.exceptions import AssistantErr
+from Abhimanyu.utils.inline.play import (stream_markup,
                                           telegram_markup)
-from AnonX.utils.inline.playlist import close_markup
-from AnonX.utils.pastebin import Anonbin
-from AnonX.utils.stream.queue import put_queue, put_queue_index
-from AnonX.utils.thumbnails import gen_thumb
+from Abhimanyu.utils.inline.playlist import close_markup
+from Abhimanyu.utils.pastebin import Anonbin
+from Abhimanyu.utils.stream.queue import put_queue, put_queue_index
+from Abhimanyu.utils.thumbnails import gen_thumb
 
 
 async def stream(
