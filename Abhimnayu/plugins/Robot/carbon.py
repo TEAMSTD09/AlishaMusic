@@ -1,7 +1,7 @@
 from pyrogram.types import Message
 from pyrogram import filters
-from AnonX import app, aiohttpsession as aiosession
-from AnonX.utils.errors import capture_err
+from Abhimnayu import app, aiohttpsession as aiosession
+from Abhimnayu.utils.errors import capture_err
 from asyncio import gather
 from io import BytesIO
 
