@@ -8,7 +8,7 @@ from pyrogram.types import (
     Message,
 )
 
-from AnonX import app as Client
+from Abhimnayu import app as Client
 from config import (
     OWNER_ID as owner_id,
 )
