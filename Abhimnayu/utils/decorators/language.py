@@ -1,6 +1,6 @@
 from strings import get_string
-from Abhimanyu.misc import SUDOERS
-from Abhimanyu.utils.database import (get_lang, is_commanddelete_on,
+from Abhimnayu.misc import SUDOERS
+from Abhimnayu.utils.database import (get_lang, is_commanddelete_on,
                                        is_maintenance)
 
 
