@@ -1,5 +1,5 @@
-from Abhimanyu import app
-from Abhimanyu.utils.database import get_cmode
+from Abhimnayu import app
+from Abhimnayu.utils.database import get_cmode
 
 
 async def get_channeplayCB(_, command, CallbackQuery):
