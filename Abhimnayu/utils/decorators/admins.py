@@ -2,9 +2,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import adminlist
 from strings import get_string
-from Abhimanyu import app
-from Abhimanyu.misc import SUDOERS
-from Abhimanyu.utils.database import (get_authuser_names, get_cmode,
+from Abhimnayu import app
+from Abhimnayu.misc import SUDOERS
+from Abhimnayu.utils.database import (get_authuser_names, get_cmode,
                                        get_lang, is_active_chat,
                                        is_commanddelete_on,
                                        is_maintenance,
