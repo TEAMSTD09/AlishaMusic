@@ -2,15 +2,15 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import PLAYLIST_IMG_URL, PRIVATE_BOT_MODE, adminlist
 from strings import get_string
-from Abhimanyu import YouTube, app
-from Abhimanyu.misc import SUDOERS
-from Abhimanyu.utils.database import (get_cmode, get_lang,
+from Abhimnayu import YouTube, app
+from Abhimnayu.misc import SUDOERS
+from Abhimnayu.utils.database import (get_cmode, get_lang,
                                        get_playmode, get_playtype,
                                        is_active_chat,
                                        is_commanddelete_on,
                                        is_served_private_chat)
-from AnonX.utils.database.memorydatabase import is_maintenance
-from AnonX.utils.inline.playlist import botplaylist_markup
+from Abhimnayu.utils.database.memorydatabase import is_maintenance
+from Abhimnayu.utils.inline.playlist import botplaylist_markup
 
 
 def PlayWrapper(command):
