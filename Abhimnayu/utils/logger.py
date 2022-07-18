@@ -1,6 +1,6 @@
 from config import LOG, LOG_GROUP_ID, MUSIC_BOT_NAME
-from Abhimanyu import app
-from Abhimanyu.utils.database import is_on_off
+from Abhimnayu import app
+from Abhimnayu.utils.database import is_on_off
 
 
 async def play_logs(message, streamtype):
