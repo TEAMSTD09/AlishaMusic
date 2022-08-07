@@ -63,12 +63,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="• ɔʍɳəɽ", url=f"https://t.me/Venom_Ha1n_Hum"
+                text="• ɔʍɳəɽ", url=f"https://t.me/STD_KING"
             )
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alisha_Support"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/FeelingsShayari"
             )
         ],
     ]
@@ -117,7 +117,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alisha_Support"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/FeelingsShayari"
             ),
         ],
     ]
@@ -145,7 +145,7 @@ def stream_markup(_, videoid, chat_id):
                 url=f"{config.SUPPORT_GROUP}",
             ),
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alisha_Support"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/FeelingsShayari"
             )
         ],
     ]
@@ -160,7 +160,7 @@ def telegram_markup(_, chat_id):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/Alisha_Support"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/FeelingsShayari"
             ),
         ],
     ]
